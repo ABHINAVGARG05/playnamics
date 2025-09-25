@@ -11,6 +11,7 @@ SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
 
 #Test
+#test2
 
 # Tuning knobs for core mechanics
 PLAYER_SPEED = 7             # How fast the player moves left/right
